@@ -1,5 +1,0 @@
-twilio==6.50.1
-APScheduler==3.6.3
-docopt==0.6.2
-bob-builder
-boto==2.48.0
